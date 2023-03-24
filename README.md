@@ -37,7 +37,7 @@ Overall, this project provides a low-cost and customizable solution for motion c
 - Unity and Unreal Engine examples.
 - ESP8266 version.
 - Including acceleration.
-
+- Local discovery protocol for suit (SSDP)
 ## License
 
 This project is licensed under the MIT License.
